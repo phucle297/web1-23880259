@@ -1,0 +1,73 @@
+[
+  { "title": "home", "link": "/rss/home.rss" },
+  { "title": "Thời sự", "link": "https://thanhnien.vn/rss/thoi-su.rss" },
+  {
+    "title": "Chính trị",
+    "link": "https://thanhnien.vn/rss/chinh-tri.rss"
+  },
+  {
+    "title": "Chào ngày mới",
+    "link": "https://thanhnien.vn/rss/chao-ngay-moi.rss"
+  },
+  { "title": "Thế giới", "link": "https://thanhnien.vn/rss/the-gioi.rss" },
+  { "title": "Kinh tế", "link": "https://thanhnien.vn/rss/kinh-te.rss" },
+  { "title": "Đời sống", "link": "https://thanhnien.vn/rss/doi-song.rss" },
+  { "title": "Sức khỏe", "link": "https://thanhnien.vn/rss/suc-khoe.rss" },
+  { "title": "Giới trẻ", "link": "https://thanhnien.vn/rss/gioi-tre.rss" },
+  {
+    "title": "Tiêu dùng thông minh",
+    "link": "https://thanhnien.vn/rss/tieu-dung-thong-minh.rss"
+  },
+  { "title": "Giáo dục", "link": "https://thanhnien.vn/rss/giao-duc.rss" },
+  { "title": "Du lịch", "link": "https://thanhnien.vn/rss/du-lich.rss" },
+  { "title": "Văn hóa", "link": "https://thanhnien.vn/rss/van-hoa.rss" },
+  { "title": "Giải trí", "link": "https://thanhnien.vn/rss/giai-tri.rss" },
+  { "title": "Thể thao", "link": "https://thanhnien.vn/rss/the-thao.rss" },
+  {
+    "title": "Công nghệ",
+    "link": "https://thanhnien.vn/rss/cong-nghe.rss"
+  },
+  { "title": "Xe", "link": "https://thanhnien.vn/rss/xe.rss" },
+  {
+    "title": "Thời trang trẻ",
+    "link": "https://thanhnien.vn/rss/thoi-trang-tre.rss"
+  },
+  { "title": "Bạn đọc", "link": "https://thanhnien.vn/rss/ban-doc.rss" },
+  { "title": "Rao vặt", "link": "https://thanhnien.vn/rss/rao-vat.rss" },
+  { "title": "Video", "link": "https://thanhnien.vn/rss/video.rss" },
+  { "title": "Diễn đàn", "link": "https://thanhnien.vn/rss/dien-dan.rss" },
+  { "title": "Podcast", "link": "https://thanhnien.vn/rss/podcast.rss" },
+  {
+    "title": "Nhật ký Tết Việt",
+    "link": "https://thanhnien.vn/rss/nhat-ky-tet-viet.rss"
+  },
+  { "title": "Magazine", "link": "https://thanhnien.vn/rss/magazine.rss" },
+  {
+    "title": "Cùng con đi tiếp cuộc đời",
+    "link": "https://thanhnien.vn/rss/cung-con-di-tiep-cuoc-doi.rss"
+  },
+  {
+    "title": "Bạn cần biết",
+    "link": "https://thanhnien.vn/rss/ban-can-biet.rss"
+  },
+  {
+    "title": "Cải chính",
+    "link": "https://thanhnien.vn/rss/cai-chinh.rss"
+  },
+  {
+    "title": "Blog phóng viên",
+    "link": "https://thanhnien.vn/rss/blog-phong-vien.rss"
+  },
+  { "title": "Tôi viết", "link": "https://thanhnien.vn/rss/toi-viet.rss" },
+  { "title": "Việc làm", "link": "https://thanhnien.vn/rss/viec-lam.rss" },
+  { "title": "TNO", "link": "https://thanhnien.vn/rss/tno.rss" },
+  { "title": "Tin 24h", "link": "https://thanhnien.vn/rss/tin-24h.rss" },
+  {
+    "title": "Tin thị trường",
+    "link": "https://thanhnien.vn/rss/thi-truong.rss"
+  },
+  {
+    "title": "Tin nhanh 360",
+    "link": "https://thanhnien.vn/rss/tin-nhanh-360.rss"
+  }
+]
